@@ -12,7 +12,7 @@
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="SMPS.DatabaseProject.dll" />
-			<Metadata Name="FileName" Value="D:\SMPSSOURCECODE\SMPS.DATABASEPROJECT\OBJ\DEBUG\SMPS.DATABASEPROJECT.DLL" />
+			<Metadata Name="FileName" Value="C:\USERS\PAVAN_GAUTARAJU\SOURCE\REPOS\SMPS7\SMPS.DATABASEPROJECT\OBJ\DEBUG\SMPS.DATABASEPROJECT.DLL" />
 			<Metadata Name="AssemblyName" Value="SMPS.DatabaseProject" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
@@ -20,7 +20,7 @@
 			<Metadata Name="IsVisible" Value="True" />
 			<Metadata Name="IsModelAware" Value="True" />
 			<Metadata Name="SkipCreationIfEmpty" Value="True" />
-			<Metadata Name="AssemblySymbolsName" Value="D:\SMPSSourceCode\Smps.DatabaseProject\obj\Debug\SMPS.DatabaseProject.pdb" />
+			<Metadata Name="AssemblySymbolsName" Value="C:\Users\Pavan_Gautaraju\Source\Repos\SMPS7\Smps.DatabaseProject\obj\Debug\SMPS.DatabaseProject.pdb" />
 		</CustomData>
 		<CustomData Category="SqlCmdVariables" Type="SqlCmdVariable" />
 	</Header>
