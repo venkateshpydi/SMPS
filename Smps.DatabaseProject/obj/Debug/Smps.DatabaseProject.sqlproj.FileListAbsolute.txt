@@ -16,3 +16,8 @@ C:\Users\Pavan_Gautaraju\Source\Repos\SMPS7\Smps.DatabaseProject\obj\Debug\postd
 C:\Users\Pavan_Gautaraju\Source\Repos\SMPS7\Smps.DatabaseProject\obj\Debug\predeploy.sql
 C:\Users\Pavan_Gautaraju\Source\Repos\SMPS7\Smps.DatabaseProject\obj\Debug\SMPS.DatabaseProject.dll
 C:\Users\Pavan_Gautaraju\Source\Repos\SMPS7\Smps.DatabaseProject\obj\Debug\SMPS.DatabaseProject.pdb
+D:\SMPSLatestSourceCode\Smps.DatabaseProject\bin\Debug\Smps.dacpac
+D:\SMPSLatestSourceCode\Smps.DatabaseProject\bin\Debug\SMPS.DatabaseProject.dll
+D:\SMPSLatestSourceCode\Smps.DatabaseProject\bin\Debug\SMPS.DatabaseProject.pdb
+D:\SMPSLatestSourceCode\Smps.DatabaseProject\obj\Debug\SMPS.DatabaseProject.dll
+D:\SMPSLatestSourceCode\Smps.DatabaseProject\obj\Debug\SMPS.DatabaseProject.pdb
