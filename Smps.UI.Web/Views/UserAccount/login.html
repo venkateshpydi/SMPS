@@ -1,0 +1,63 @@
+﻿<div class="login-container">
+    <!-- Epam logo  -->
+    <!-- Start : Main content for the login page  -->
+    <div class="login-content clearfix">
+
+        <div class="left-container clearfix" style="display: none;">
+            <div class="login-board"></div>
+        </div>
+        <div class="right-container clearfix">
+
+
+            <!-- Begin # DIV Form -->
+            <div id="login-form-container">
+
+                <!-- Begin # Login Form -->
+                <form id="login-form" ng-submit="login()">
+                    <div id="innerContainer">
+                        <p> SMPS </p>
+                    </div>
+
+                    <!-- Begin # Home Form -->
+                    <div class="login-form">
+                        <div id="WarningMsgWrapperDiv" class="login-warning" style="visibility:hidden;">
+                            &nbsp;
+                        </div>
+                        <!-- Begin # Home Form -->
+                        <div class="alert alert-danger" ng-show="((message).length > 0)">{{message}}</div><!-- End # DIV Form -->
+                        <!-- Begin # Home Form -->
+                        <div class="form-field">
+                            <input id="username" name="username"
+                                   ng-model="userObject.userName"
+                                   ng-minlength="6"
+                                   autofocus required
+                                   placeholder="Please Enter Email-id"
+                                   type="email" class="inputtext form-control" aria-label="Username" />
+                        </div>
+                        <!-- End # DIV Form -->
+                        <!-- Begin # Home Form -->
+                        <div class="form-field">
+                            <input id="password" type="password" name="password" ng-model="userObject.password"
+                                   maxlength="16" autocomplete="off" required
+                                   placeholder="Please Enter Password" class="inputpassword form-control" />
+                        </div>
+                        <!-- End # DIV Form -->
+                    </div>
+                    <div id="languageContainer" class="language-container">
+                        <input type="hidden" name="L.language" id="LoginLanguage" value="en">
+                    </div>
+                    <!-- Begin # Home Form -->
+                    <div class="login-form-button pull-right">
+                        <button type="submit" class="uui-button blue">Login</button>
+                    </div>
+
+                    <!-- End # DIV Form -->
+                </form>
+                <!-- End # Login Form -->
+
+            </div>
+            <!-- End # DIV Form -->
+        </div>
+    </div>
+    <!-- End : Main content for the login page  -->
+</div>

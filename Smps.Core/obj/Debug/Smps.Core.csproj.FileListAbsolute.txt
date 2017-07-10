@@ -1,0 +1,16 @@
+D:\SMPSSourceCode\SMPS.Core\bin\Debug\Smps.Core.dll.config
+D:\SMPSSourceCode\SMPS.Core\bin\Debug\Smps.Core.dll
+D:\SMPSSourceCode\SMPS.Core\bin\Debug\Smps.Core.pdb
+D:\SMPSSourceCode\SMPS.Core\bin\Debug\Castle.Core.dll
+D:\SMPSSourceCode\SMPS.Core\bin\Debug\Castle.Windsor.dll
+D:\SMPSSourceCode\SMPS.Core\bin\Debug\EntityFramework.dll
+D:\SMPSSourceCode\SMPS.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\SMPSSourceCode\SMPS.Core\bin\Debug\SMPS.CrossCutting.dll
+D:\SMPSSourceCode\SMPS.Core\bin\Debug\SMPS.CrossCutting.pdb
+D:\SMPSSourceCode\SMPS.Core\bin\Debug\Castle.Core.xml
+D:\SMPSSourceCode\SMPS.Core\bin\Debug\Castle.Windsor.xml
+D:\SMPSSourceCode\SMPS.Core\bin\Debug\EntityFramework.xml
+D:\SMPSSourceCode\SMPS.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\SMPSSourceCode\SMPS.Core\obj\Debug\Smps.Core.csprojResolveAssemblyReference.cache
+D:\SMPSSourceCode\SMPS.Core\obj\Debug\Smps.Core.dll
+D:\SMPSSourceCode\SMPS.Core\obj\Debug\Smps.Core.pdb

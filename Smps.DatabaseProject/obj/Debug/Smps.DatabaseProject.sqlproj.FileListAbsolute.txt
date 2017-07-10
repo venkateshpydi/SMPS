@@ -1,0 +1,9 @@
+D:\SMPSSourceCode\Smps.DatabaseProject\bin\Debug\Smps.dacpac
+D:\SMPSSourceCode\Smps.DatabaseProject\bin\Debug\SMPS.DatabaseProject.dll
+D:\SMPSSourceCode\Smps.DatabaseProject\bin\Debug\SMPS.DatabaseProject.pdb
+D:\SMPSSourceCode\Smps.DatabaseProject\obj\Debug\Model.xml
+D:\SMPSSourceCode\Smps.DatabaseProject\obj\Debug\refactor.xml
+D:\SMPSSourceCode\Smps.DatabaseProject\obj\Debug\postdeploy.sql
+D:\SMPSSourceCode\Smps.DatabaseProject\obj\Debug\predeploy.sql
+D:\SMPSSourceCode\Smps.DatabaseProject\obj\Debug\SMPS.DatabaseProject.dll
+D:\SMPSSourceCode\Smps.DatabaseProject\obj\Debug\SMPS.DatabaseProject.pdb

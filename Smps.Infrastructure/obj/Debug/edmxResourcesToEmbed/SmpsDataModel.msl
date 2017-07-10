@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SMPSModelStoreContainer" CdmEntityContainer="SMPSEntities">
+    <EntitySetMapping Name="HolderDetails">
+      <EntityTypeMapping TypeName="SMPSModel.HolderDetail">
+        <MappingFragment StoreEntitySet="HolderDetails">
+          <ScalarProperty Name="OperationType" ColumnName="OperationType" />
+          <ScalarProperty Name="AllocationType" ColumnName="AllocationType" />
+          <ScalarProperty Name="SlotReleasedDate" ColumnName="SlotReleasedDate" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="ParkingSlotNumber" ColumnName="ParkingSlotNumber" />
+          <ScalarProperty Name="EmpNo" ColumnName="EmpNo" />
+          <ScalarProperty Name="HolderDetailId" ColumnName="HolderDetailId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="SMPSModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="UserLoginPassword" ColumnName="UserLoginPassword" />
+          <ScalarProperty Name="OperationType" ColumnName="OperationType" />
+          <ScalarProperty Name="Location" ColumnName="Location" />
+          <ScalarProperty Name="ParkingSlotNumber" ColumnName="ParkingSlotNumber" />
+          <ScalarProperty Name="UserType" ColumnName="UserType" />
+          <ScalarProperty Name="UserLoginId" ColumnName="UserLoginId" />
+          <ScalarProperty Name="MobileNumber" ColumnName="MobileNumber" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="EmpNo" ColumnName="EmpNo" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
